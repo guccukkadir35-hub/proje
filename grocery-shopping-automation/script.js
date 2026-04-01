@@ -21,6 +21,7 @@ let urunler = [
 ];
 
 
+
 const urunListesi = document.getElementById("urunListesi");
 const ekleBtn = document.getElementById("ekleBtn");
 const urunInput = document.getElementById("urunInput");
